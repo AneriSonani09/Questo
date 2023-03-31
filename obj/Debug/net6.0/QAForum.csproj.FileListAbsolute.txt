@@ -284,3 +284,7 @@ C:\Users\ANERI\source\repos\QAForum\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.W
 C:\Users\ANERI\source\repos\QAForum\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 C:\Users\ANERI\source\repos\QAForum\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 C:\Users\ANERI\source\repos\QAForum\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ANERI\source\repos\QAForum\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ANERI\source\repos\QAForum\bin\Debug\net6.0\Scrutor.dll
+C:\Users\ANERI\source\repos\QAForum\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\ANERI\source\repos\QAForum\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
